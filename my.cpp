@@ -11,10 +11,9 @@ using namespace std;
 #define rn return
 
 void solve(){
-    cout<<"Hello world"<<endl;
-    cout<<"Hello world"<<endl;
-    cout<<"Hello world"<<endl;
-    cout<<"Hello world"<<endl;
+    cout<<"This is my first session in my life"<<endl;
+    cout<<"This is my first session in my life"<<endl;
+    cout<<"This is my first session in my life"<<endl;
 }
 
 int main(){
